@@ -10,5 +10,5 @@ Clickjacking is an attack that tricks a user into clicking a webpage element whi
 > [!CAUTION]
 >   **This is only for education purpose only. How use this is your responsibilty. I will not be held accountable for any illegal activities**
 
-![](2U.gif)
+![](2GU.gif)
 ***Enjoy it...***
